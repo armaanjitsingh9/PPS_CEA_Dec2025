@@ -12,4 +12,8 @@ cout<<u+10;
 cout<<u;
     return 0;
 }
+Output:
+username 56
+6656
+
 ```
