@@ -1,3 +1,4 @@
+```c
 // Program to use cout and cin
 #include <iostream>
 
@@ -11,3 +12,4 @@ cout<<u+10;
 cout<<u;
     return 0;
 }
+```
